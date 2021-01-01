@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Pickup Text
+  - Name Text
+  - Desc Text
+  - Drop Point
+  - Info Panel
+  - Game Manager
+  - VCam
+  - Inventory Manager
+  - Hotbar
+  - Stored Settings
+  - Input Changer
+  - Save System
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - Foreground
+  - Player
+  - Item Icons
+  - No Collisions
+  - Enemy
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2162711971
+    locked: 0
+  - name: Ground
+    uniqueID: 2834643951
+    locked: 0
+  - name: Foreground
+    uniqueID: 2054189875
+    locked: 0
+  - name: Player
+    uniqueID: 556437925
+    locked: 0
+  - name: UI
+    uniqueID: 1921671683
+    locked: 0
